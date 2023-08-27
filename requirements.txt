@@ -1,0 +1,21 @@
+#default - configuration
+sphinx
+lumache
+#annotated
+#multiple pydantic
+#themes
+sphinx-immaterial
+sphinx-rtd-theme
+sphinx-material
+
+#tools
+sphinx-toolbox
+sphinx-design
+sphinx-autopackagesummary
+myst_parser
+sphinxcontrib-mermaid
+sphinx_copybutton
+sphinx-autobuild
+sphinx-togglebutton
+sphinxcontrib-plantuml
+python-dotenv
