@@ -14,4 +14,5 @@ intro.md
 
 ```{toctree}
 exemple.md
+informatique/Linux/setup_premier_serveur.md
 ```
