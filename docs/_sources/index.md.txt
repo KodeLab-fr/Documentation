@@ -10,8 +10,25 @@
 :maxdepth: 1
 
 intro.md
+formations.md
 ```
 
 ```{toctree}
-exemple.md
+:caption: 'Linux'
+:maxdepth: 1
+informatique/Linux/first_steps.md
+informatique/Linux/setup_premier_serveur.md
+informatique/Linux/commands.md
+```
+
+```{toctree}
+:caption: 'Informatique'
+:maxdepth: 1
+informatique/python/python1.md
+```
+
+```{toctree}
+:caption: 'Mathématiques'
+:maxdepth: 1
+maths/derivee_usuelle.md
 ```
